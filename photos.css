@@ -1,0 +1,21 @@
+img {
+	height: 350px;
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+/*To work out margin needed between each element, basically
+consider left and right side of each element and divide by 10% -
+we are dividing by 10% because only 90% is being taken up by
+the pics currently, leaving 10% free margin space - therefore
+6 / 10 = */
+
+h1 {
+	font-family: 'Abril Fatface', sans-serif;
+	margin-left: 1.66%;
+	font-size: 23px;
+	text-transform: uppercase;
+	border-bottom: 3px solid red;
+	padding-bottom: 20px;
+}
